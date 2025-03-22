@@ -175,7 +175,7 @@ function openMoviePage(movieId, movieTitle, movieImage) {
           <br>
           <label for="quality">Select Quality:</label>
           <select id="quality">
-            <option value="https://live.tsports.com/mobile_hls/tsports_live_2/index.m3u8">240P</option>
+            <option value="https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/hdntl=exp=1742740592~acl=%2f*~data=hdntl~hmac=9f26e562e36bb26da9891d70226400c883d05e2f1d2f3bee592aa3067c112636/Sports18_1_HD_voot_MOB-audio_42842_eng=42800-video=151600.m3u8">240P</option>
             <option value="https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/hdntl=exp=1742738167~acl=%2F*~data=hdntl~hmac=3dab27defb2ca86fcfbcefb92553446090e566760264929c800abf9043ceb9ca/Sports18_1_HD_voot_MOB/index/auto.m3u8">360P</option>
             <option value="https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/hdntl=exp=1742738167~acl=%2F*~data=hdntl~hmac=3dab27defb2ca86fcfbcefb92553446090e566760264929c800abf9043ceb9ca/Sports18_1_HD_voot_MOB/index/auto.m3u8">480P</option>
             <option value="https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/hdntl=exp=1742738167~acl=%2F*~data=hdntl~hmac=3dab27defb2ca86fcfbcefb92553446090e566760264929c800abf9043ceb9ca/Sports18_1_HD_voot_MOB/index/auto.m3u8">540P</option>
