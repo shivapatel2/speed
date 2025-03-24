@@ -177,7 +177,7 @@ function openMoviePage(movieId, movieTitle, movieImage) {
           <select id="quality">
             <option value="https://channel6.csports.tv/1529157792/index.m3u8">240P</option>
             <option value="https://channel6.csports.tv/1529157792/index.m3u8">360P</option>
-            <option value="https://puc200.mytime1.top:8088/live/webcricwillow/playlist.m3u8?id=120375&pk=a95b4b6e690ef04ea90b5e2b4d0b78402cb805dee244d80b8ede58c9ff003f1ebacb58510d7e30141b8c9d9dac6d6073e3cf8084c7434ca2370ad7561c34cfd1">480P</option>
+            <option value="https://jf6.dunyapurkaraja.com:999/hls/starhindi.m3u8?md5=oQ-j74hsf5wkuNWTXS1FcA&expires=1742834851">480P</option>
             <option value="https://channel6.csports.tv/1529157792/index.m3u8">540P</option>
             <option value="https://channel6.csports.tv/1529157792/index.m3u8">Full HD</option>
           </select>
