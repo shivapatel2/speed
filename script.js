@@ -175,11 +175,11 @@ function openMoviePage(movieId, movieTitle, movieImage) {
           <br>
           <label for="quality">Select Quality:</label>
           <select id="quality">
-            <option value="https://muc200.mytime1.top:8088/live/webcricn04/playlist.m3u8?id=114607&pk=a95b4b6e690ef04ea90b5e2b4d0b78402cb805dee244d80b8ede58c9ff003f1ebacb58510d7e30141b8c9d9dac6d6073e3cf8084c7434ca2370ad7561c34cfd1">240P</option>
-            <option value="https://muc200.mytime1.top:8088/live/webcricn04/playlist.m3u8?id=114607&pk=a95b4b6e690ef04ea90b5e2b4d0b78402cb805dee244d80b8ede58c9ff003f1ebacb58510d7e30141b8c9d9dac6d6073e3cf8084c7434ca2370ad7561c34cfd1">360P</option>
-            <option value="https://muc200.mytime1.top:8088/live/webcricn04/playlist.m3u8?id=114607&pk=a95b4b6e690ef04ea90b5e2b4d0b78402cb805dee244d80b8ede58c9ff003f1ebacb58510d7e30141b8c9d9dac6d6073e3cf8084c7434ca2370ad7561c34cfd1">480P</option>
-            <option value="https://muc200.mytime1.top:8088/live/webcricn04/playlist.m3u8?id=114607&pk=a95b4b6e690ef04ea90b5e2b4d0b78402cb805dee244d80b8ede58c9ff003f1ebacb58510d7e30141b8c9d9dac6d6073e3cf8084c7434ca2370ad7561c34cfd1">540P</option>
-            <option value="https://muc200.mytime1.top:8088/live/webcricn04/playlist.m3u8?id=114607&pk=a95b4b6e690ef04ea90b5e2b4d0b78402cb805dee244d80b8ede58c9ff003f1ebacb58510d7e30141b8c9d9dac6d6073e3cf8084c7434ca2370ad7561c34cfd1">Full HD</option>
+            <option value="https://channel6.csports.tv/1529157792/index.m3u8">240P</option>
+            <option value="https://channel6.csports.tv/1529157792/index.m3u81">360P</option>
+            <option value="https://channel6.csports.tv/1529157792/index.m3u8">480P</option>
+            <option value="https://channel6.csports.tv/1529157792/index.m3u8">540P</option>
+            <option value="https://channel6.csports.tv/1529157792/index.m3u8">Full HD</option>
           </select>
         </div>
         <div class="telegram">
