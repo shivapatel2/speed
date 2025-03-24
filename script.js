@@ -176,8 +176,8 @@ function openMoviePage(movieId, movieTitle, movieImage) {
           <label for="quality">Select Quality:</label>
           <select id="quality">
             <option value="https://channel6.csports.tv/1529157792/index.m3u8">240P</option>
-            <option value="https://channel6.csports.tv/1529157792/index.m3u81">360P</option>
-            <option value="https://channel6.csports.tv/1529157792/index.m3u8">480P</option>
+            <option value="https://channel6.csports.tv/1529157792/index.m3u8">360P</option>
+            <option value="hhttps://channel6.csports.tv/1529157792/index.m3u8">480P</option>
             <option value="https://channel6.csports.tv/1529157792/index.m3u8">540P</option>
             <option value="https://channel6.csports.tv/1529157792/index.m3u8">Full HD</option>
           </select>
