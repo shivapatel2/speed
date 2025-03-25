@@ -175,11 +175,11 @@ function openMoviePage(movieId, movieTitle, movieImage) {
           <br>
           <label for="quality">Select Quality:</label>
           <select id="quality">
-            <option value="https://muc100.mytime1.top:8088/live/webcricwillow/playlist.m3u8?id=120375&pk=1d6f769c6882aa4167a37ec0cfdc9a4debe0774cbe123572339a1a1aed919ce07ade9af8874cb1eb49b6a1c64569ae92883c95aa836d8cccb3f0832a00910dfc">240P</option>
-            <option value="https://muc100.mytime1.top:8088/live/webcricwillow/playlist.m3u8?id=120375&pk=1d6f769c6882aa4167a37ec0cfdc9a4debe0774cbe123572339a1a1aed919ce07ade9af8874cb1eb49b6a1c64569ae92883c95aa836d8cccb3f0832a00910dfc">360P</option>
-            <option value="https://jf5.dunyapurkaraja.com:999/hls/willowusa.m3u8?md5=54c20NowM2UMtmGft7j54Q&expires=1742917552">480P</option>
-            <option value="https://jf5.dunyapurkaraja.com:999/hls/willowusa.m3u8?md5=54c20NowM2UMtmGft7j54Q&expires=1742917552">540P</option>
-            <option value="https://channel6.csports.tv/1529157792/index.m3u8">Full HD</option>
+            <option value="https://top1-cdnnew.koskoros.ru/top1-cdn/7UHvIS62zx/mono.m3u8">240P</option>
+            <option value="https://top1-cdnnew.koskoros.ru/top1-cdn/7UHvIS62zx/mono.m3u8">360P</option>
+            <option value="https://top1-cdnnew.koskoros.ru/top1-cdn/7UHvIS62zx/mono.m3u8">480P</option>
+            <option value="https://top1-cdnnew.koskoros.ru/top1-cdn/7UHvIS62zx/mono.m3u8">540P</option>
+            <option value="https://top1-cdnnew.koskoros.ru/top1-cdn/7UHvIS62zx/mono.m3u8">Full HD</option>
           </select>
         </div>
         <div class="telegram">
