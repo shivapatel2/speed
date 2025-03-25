@@ -175,8 +175,8 @@ function openMoviePage(movieId, movieTitle, movieImage) {
           <br>
           <label for="quality">Select Quality:</label>
           <select id="quality">
-            <option value="https://top1-cdnnew.koskoros.ru/top1-cdn/7UHvIS62zx/mono.m3u8">240P</option>
-            <option value="https://top1-cdnnew.koskoros.ru/top1-cdn/7UHvIS62zx/mono.m3u8">360P</option>
+            <option value="https://mtsft.ruscfd.lat/720p.m3u8">240P</option>
+            <option value="https://mtsft.ruscfd.lat/720p.m3u8">360P</option>
             <option value="https://top1-cdnnew.koskoros.ru/top1-cdn/7UHvIS62zx/mono.m3u8">480P</option>
             <option value="https://top1-cdnnew.koskoros.ru/top1-cdn/7UHvIS62zx/mono.m3u8">540P</option>
             <option value="https://top1-cdnnew.koskoros.ru/top1-cdn/7UHvIS62zx/mono.m3u8">Full HD</option>
