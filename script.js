@@ -175,11 +175,11 @@ function openMoviePage(movieId, movieTitle, movieImage) {
           <br>
           <label for="quality">Select Quality:</label>
           <select id="quality">
-            <option value="https://jf7.dunyapurkaraja.com:999/hls/star1in.m3u8">240P</option>
+            <option value="https://002.fclplayer.online/live/csstream2/chunklist.m3u8?vidictid=201725155749&id=1002&pk=8b3ad8fb61061bfe4edb51cb9ccb21855127df9484799f597d947e7fa28af62a">240P</option>
             <option value="https://mtsft.ruscfd.lat/720p.m3u8">360P</option>
             <option value="https://top1-cdnnew.koskoros.ru/top1-cdn/7UHvIS62zx/mono.m3u8">480P</option>
-            <option value="https://top1-cdnnew.koskoros.ru/top1-cdn/7UHvIS62zx/mono.m3u8">540P</option>
-            <option value="https://top1-cdnnew.koskoros.ru/top1-cdn/7UHvIS62zx/mono.m3u8">Full HD</option>
+            <option value="https://002.fclplayer.online/live/csstream2/chunklist.m3u8?vidictid=201725155749&id=1002&pk=8b3ad8fb61061bfe4edb51cb9ccb21855127df9484799f597d947e7fa28af62a">540P</option>
+            <option value="https://002.fclplayer.online/live/csstream2/chunklist.m3u8?vidictid=201725155749&id=1002&pk=8b3ad8fb61061bfe4edb51cb9ccb21855127df9484799f597d947e7fa28af62a">Full HD</option>
           </select>
         </div>
         <div class="telegram">
