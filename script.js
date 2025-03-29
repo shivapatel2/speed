@@ -175,11 +175,11 @@ function openMoviePage(movieId, movieTitle, movieImage) {
           <br>
           <label for="quality">Select Quality:</label>
           <select id="quality">
-            <option value="https://muc100.mytime1.top:8088/live/webcrichindi/playlist.m3u8?id=119771&pk=8bd878cb80093cfcdee6e05ce907e0126ac822599a601d30a93398f1d9f64bf3b53feee280c6084a7a94e3659bd6344a1dc142bc7d03bbf507c18e41fc0b5f03">240P</option>
-            <option value="https://muc100.mytime1.top:8088/live/webcrichindi/playlist.m3u8?id=119771&pk=8bd878cb80093cfcdee6e05ce907e0126ac822599a601d30a93398f1d9f64bf3b53feee280c6084a7a94e3659bd6344a1dc142bc7d03bbf507c18e41fc0b5f03">360P</option>
-            <option value="https://muc100.mytime1.top:8088/live/webcrichindi/playlist.m3u8?id=119771&pk=8bd878cb80093cfcdee6e05ce907e0126ac822599a601d30a93398f1d9f64bf3b53feee280c6084a7a94e3659bd6344a1dc142bc7d03bbf507c18e41fc0b5f03">480P</option>
-            <option value="https://muc100.mytime1.top:8088/live/webcrichindi/playlist.m3u8?id=119771&pk=8bd878cb80093cfcdee6e05ce907e0126ac822599a601d30a93398f1d9f64bf3b53feee280c6084a7a94e3659bd6344a1dc142bc7d03bbf507c18e41fc0b5f03">540P</option>
-            <option value="https://muc100.mytime1.top:8088/live/webcrichindi/playlist.m3u8?id=119771&pk=8bd878cb80093cfcdee6e05ce907e0126ac822599a601d30a93398f1d9f64bf3b53feee280c6084a7a94e3659bd6344a1dc142bc7d03bbf507c18e41fc0b5f03">Full HD</option>
+            <option value="https://foxhindi.pages.dev/playlist.m3u8">240P</option>
+            <option value="https://foxhindi.pages.dev/playlist.m3u8">360P</option>
+            <option value="https://foxhindi.pages.dev/playlist.m3u8">480P</option>
+            <option value="https://foxhindi.pages.dev/playlist.m3u8">540P</option>
+            <option value="https://foxhindi.pages.dev/playlist.m3u8">Full HD</option>
           </select>
         </div>
         <div class="telegram">
