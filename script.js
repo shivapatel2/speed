@@ -175,11 +175,11 @@ function openMoviePage(movieId, movieTitle, movieImage) {
           <br>
           <label for="quality">Select Quality:</label>
           <select id="quality">
-            <option value="https://jf5.dunyapurkaraja.com:999/hls/starhindi.m3u8?md5=XJcWRrubM8eSq_2olVF6oQ&expires=1743335237">240P</option>
-            <option value="https://jf5.dunyapurkaraja.com:999/hls/starhindi.m3u8?md5=XJcWRrubM8eSq_2olVF6oQ&expires=1743335237">360P</option>
-            <option value="https://jf5.dunyapurkaraja.com:999/hls/starhindi.m3u8?md5=XJcWRrubM8eSq_2olVF6oQ&expires=1743335237">480P</option>
-            <option value="https://jf5.dunyapurkaraja.com:999/hls/starhindi.m3u8?md5=XJcWRrubM8eSq_2olVF6oQ&expires=1743335237">540P</option>
-            <option value="https://jf5.dunyapurkaraja.com:999/hls/starhindi.m3u8?md5=XJcWRrubM8eSq_2olVF6oQ&expires=1743335237">Full HD</option>
+            <option value="https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1743335134~acl=/*~hmac=080402fe4f075ebd3d8f5b4c97f99393e5fbfdc4a06dd7cddfbc717c6736fb84">240P</option>
+            <option value="https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1743335134~acl=/*~hmac=080402fe4f075ebd3d8f5b4c97f99393e5fbfdc4a06dd7cddfbc717c6736fb84">360P</option>
+            <option value="https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1743335134~acl=/*~hmac=080402fe4f075ebd3d8f5b4c97f99393e5fbfdc4a06dd7cddfbc717c6736fb84">480P</option>
+            <option value="https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1743335134~acl=/*~hmac=080402fe4f075ebd3d8f5b4c97f99393e5fbfdc4a06dd7cddfbc717c6736fb84">540P</option>
+            <option value="https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1743335134~acl=/*~hmac=080402fe4f075ebd3d8f5b4c97f99393e5fbfdc4a06dd7cddfbc717c6736fb84">Full HD</option>
           </select>
         </div>
         <div class="telegram">
