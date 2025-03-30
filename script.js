@@ -175,11 +175,11 @@ function openMoviePage(movieId, movieTitle, movieImage) {
           <br>
           <label for="quality">Select Quality:</label>
           <select id="quality">
-            <option value="https://foxhindi.pages.dev/playlist.m3u8">240P</option>
-            <option value="https://foxhindi.pages.dev/playlist.m3u8">360P</option>
-            <option value="https://foxhindi.pages.dev/playlist.m3u8">480P</option>
-            <option value="https://foxhindi.pages.dev/playlist.m3u8">540P</option>
-            <option value="https://foxhindi.pages.dev/playlist.m3u8">Full HD</option>
+            <option value="https://jf5.dunyapurkaraja.com:999/hls/starhindi.m3u8?md5=XJcWRrubM8eSq_2olVF6oQ&expires=1743335237">240P</option>
+            <option value="https://jf5.dunyapurkaraja.com:999/hls/starhindi.m3u8?md5=XJcWRrubM8eSq_2olVF6oQ&expires=1743335237">360P</option>
+            <option value="https://jf5.dunyapurkaraja.com:999/hls/starhindi.m3u8?md5=XJcWRrubM8eSq_2olVF6oQ&expires=1743335237">480P</option>
+            <option value="https://jf5.dunyapurkaraja.com:999/hls/starhindi.m3u8?md5=XJcWRrubM8eSq_2olVF6oQ&expires=1743335237">540P</option>
+            <option value="https://jf5.dunyapurkaraja.com:999/hls/starhindi.m3u8?md5=XJcWRrubM8eSq_2olVF6oQ&expires=1743335237">Full HD</option>
           </select>
         </div>
         <div class="telegram">
