@@ -177,9 +177,9 @@ function openMoviePage(movieId, movieTitle, movieImage) {
           <select id="quality">
             <option value="https://002.fclplayer.online/live/csstream2/chunklist.m3u8?vidictid=201725155749&id=1002&pk=8b3ad8fb61061bfe4edb51cb9ccb21855127df9484799f597d947e7fa28af62a">240P</option>
             <option value="https://002.fclplayer.online/live/csstream2/chunklist.m3u8?vidictid=201725155749&id=1002&pk=8b3ad8fb61061bfe4edb51cb9ccb21855127df9484799f597d947e7fa28af62a">360P</option>
-            <option value="https://002.fclplayer.online/live/csstream2/chunklist.m3u8?vidictid=201725155749&id=1002&pk=8b3ad8fb61061bfe4edb51cb9ccb21855127df9484799f597d947e7fa28af62a">480P</option>
+            <option value="https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_HIN_IDC_MOB/Fallback/index.m3u8">480P</option>
             <option value="https://002.fclplayer.online/live/csstream2/chunklist.m3u8?vidictid=201725155749&id=1002&pk=8b3ad8fb61061bfe4edb51cb9ccb21855127df9484799f597d947e7fa28af62a">540P</option>
-            <option value="https://002.fclplayer.online/live/csstream2/chunklist.m3u8?vidictid=201725155749&id=1002&pk=8b3ad8fb61061bfe4edb51cb9ccb21855127df9484799f597d947e7fa28af62a">Full HD</option>
+            <option value="https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_HIN_IDC_MOB/Fallback/index.m3u8">Full HD</option>
           </select>
         </div>
         <div class="telegram">
