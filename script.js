@@ -175,11 +175,11 @@ function openMoviePage(movieId, movieTitle, movieImage) {
           <br>
           <label for="quality">Select Quality:</label>
           <select id="quality">
-            <option value="https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1743335134~acl=/*~hmac=080402fe4f075ebd3d8f5b4c97f99393e5fbfdc4a06dd7cddfbc717c6736fb84">240P</option>
-            <option value="https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1743335134~acl=/*~hmac=080402fe4f075ebd3d8f5b4c97f99393e5fbfdc4a06dd7cddfbc717c6736fb84">360P</option>
-            <option value="https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1743335134~acl=/*~hmac=080402fe4f075ebd3d8f5b4c97f99393e5fbfdc4a06dd7cddfbc717c6736fb84">480P</option>
-            <option value="https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1743335134~acl=/*~hmac=080402fe4f075ebd3d8f5b4c97f99393e5fbfdc4a06dd7cddfbc717c6736fb84">540P</option>
-            <option value="https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1743335134~acl=/*~hmac=080402fe4f075ebd3d8f5b4c97f99393e5fbfdc4a06dd7cddfbc717c6736fb84">Full HD</option>
+            <option value="https://002.fclplayer.online/live/csstream2/chunklist.m3u8?vidictid=201725155749&id=1002&pk=8b3ad8fb61061bfe4edb51cb9ccb21855127df9484799f597d947e7fa28af62a">240P</option>
+            <option value="https://002.fclplayer.online/live/csstream2/chunklist.m3u8?vidictid=201725155749&id=1002&pk=8b3ad8fb61061bfe4edb51cb9ccb21855127df9484799f597d947e7fa28af62a">360P</option>
+            <option value="https://002.fclplayer.online/live/csstream2/chunklist.m3u8?vidictid=201725155749&id=1002&pk=8b3ad8fb61061bfe4edb51cb9ccb21855127df9484799f597d947e7fa28af62a">480P</option>
+            <option value="https://002.fclplayer.online/live/csstream2/chunklist.m3u8?vidictid=201725155749&id=1002&pk=8b3ad8fb61061bfe4edb51cb9ccb21855127df9484799f597d947e7fa28af62a">540P</option>
+            <option value="https://002.fclplayer.online/live/csstream2/chunklist.m3u8?vidictid=201725155749&id=1002&pk=8b3ad8fb61061bfe4edb51cb9ccb21855127df9484799f597d947e7fa28af62a">Full HD</option>
           </select>
         </div>
         <div class="telegram">
