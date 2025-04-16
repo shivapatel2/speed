@@ -175,11 +175,11 @@ function openMoviePage(movieId, movieTitle, movieImage) {
           <br>
           <label for="quality">Select Quality:</label>
           <select id="quality">
-            <option value="https://prod-sports-hin-cf.jiocinema.com/hls/live/2117033/inallow-ipl-2025/hin/1540040249/15mindvrm0196aee80e6b0944cfb66338cda8d9b49011april2025/master_ap_1080_6.m3u8">240P</option>
-            <option value="https://prod-sports-hin-cf.jiocinema.com/hls/live/2117033/inallow-ipl-2025/hin/1540040249/15mindvrm0196aee80e6b0944cfb66338cda8d9b49011april2025/master_ap_1080_6.m3u8127df9484799f597d947e7fa28af62a">360P</option>
-            <option value="https://prod-sports-hin-cf.jiocinema.com/hls/live/2117033/inallow-ipl-2025/hin/1540040249/15mindvrm0196aee80e6b0944cfb66338cda8d9b49011april2025/master_ap_1080_6.m3u8">480P</option>
-            <option value="https://prod-sports-hin-cf.jiocinema.com/hls/live/2117033/inallow-ipl-2025/hin/1540040249/15mindvrm0196aee80e6b0944cfb66338cda8d9b49011april2025/master_ap_1080_6.m3u8">540P</option>
-            <option value="https://prod-sports-hin-cf.jiocinema.com/hls/live/2117033/inallow-ipl-2025/hin/1540040249/15mindvrm0196aee80e6b0944cfb66338cda8d9b49011april2025/master_ap_1080_6.m3u8">Full HD</option>
+            <option value="https://user472.hls-video.net/media2/token/a3f0c81db39d64f85b6f6a5cfaa1b2ce/stream.m3u8?token=ec3fe41e93d21dcc57c79afa1495d19b">240P</option>
+            <option value="https://user472.hls-video.net/media2/token/a3f0c81db39d64f85b6f6a5cfaa1b2ce/stream.m3u8?token=ec3fe41e93d21dcc57c79afa1495d19b">360P</option>
+            <option value="https://user472.hls-video.net/media2/token/a3f0c81db39d64f85b6f6a5cfaa1b2ce/stream.m3u8?token=ec3fe41e93d21dcc57c79afa1495d19b">480P</option>
+            <option value="https://user472.hls-video.net/media2/token/a3f0c81db39d64f85b6f6a5cfaa1b2ce/stream.m3u8?token=ec3fe41e93d21dcc57c79afa1495d19b">540P</option>
+            <option value="https://user472.hls-video.net/media2/token/a3f0c81db39d64f85b6f6a5cfaa1b2ce/stream.m3u8?token=ec3fe41e93d21dcc57c79afa1495d19b">Full HD</option>
           </select>
         </div>
         <div class="telegram">
