@@ -175,11 +175,11 @@ function openMoviePage(movieId, movieTitle, movieImage) {
           <br>
           <label for="quality">Select Quality:</label>
           <select id="quality">
-            <option value="https://amit-1.allinonereborn.in/jiotv00/app/ts_live_1985.m3u8">240P</option>
-            <option value="https://amit-1.allinonereborn.in/jiotv00/app/ts_live_1985.m3u8">360P</option>
-            <option value="https://amit-1.allinonereborn.in/jiotv00/app/ts_live_1985.m3u8">480P</option>
-            <option value="https://amit-1.allinonereborn.in/jiotv00/app/ts_live_1985.m3u8">540P</option>
-            <option value="https://amit-1.allinonereborn.in/jiotv00/app/ts_live_1985.m3u8">Full HD</option>
+            <option value="https://user472.hls-video.net/media2/token/a3f0c81db39d64f85b6f6a5cfaa1b2ce/stream.m3u8?token=18c1be6cdea290fe3586c7137f98b146">240P</option>
+            <option value="https://user472.hls-video.net/media2/token/a3f0c81db39d64f85b6f6a5cfaa1b2ce/stream.m3u8?token=18c1be6cdea290fe3586c7137f98b146">360P</option>
+            <option value="https://user472.hls-video.net/media2/token/a3f0c81db39d64f85b6f6a5cfaa1b2ce/stream.m3u8?token=18c1be6cdea290fe3586c7137f98b146">480P</option>
+            <option value="https://user472.hls-video.net/media2/token/a3f0c81db39d64f85b6f6a5cfaa1b2ce/stream.m3u8?token=18c1be6cdea290fe3586c7137f98b146">540P</option>
+            <option value="https://user472.hls-video.net/media2/token/a3f0c81db39d64f85b6f6a5cfaa1b2ce/stream.m3u8?token=18c1be6cdea290fe3586c7137f98b146">Full HD</option>
           </select>
         </div>
         <div class="telegram">
