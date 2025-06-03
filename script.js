@@ -175,11 +175,11 @@ function openMoviePage(movieId, movieTitle, movieImage) {
           <br>
           <label for="quality">Select Quality:</label>
           <select id="quality">
-            <option value="https://live-api.vimeocdn.com/sessions/638ee0c6-4e28-4b7e-8d6b-7d5a2580ecbf/playlist/hls.m3u8?cdn=akamai-fmp4&json=1&~exp=1748962800&~id=player&~sig=gJnMYo0080l6mhxbL_ENUO4LWm0nTxUp1sNlcRpOA0g">240P</option>
-            <option value="https://live-api.vimeocdn.com/sessions/638ee0c6-4e28-4b7e-8d6b-7d5a2580ecbf/playlist/hls.m3u8?cdn=akamai-fmp4&json=1&~exp=1748962800&~id=player&~sig=gJnMYo0080l6mhxbL_ENUO4LWm0nTxUp1sNlcRpOA0g">360P</option>
-            <option value="https://live-api.vimeocdn.com/sessions/638ee0c6-4e28-4b7e-8d6b-7d5a2580ecbf/playlist/hls.m3u8?cdn=akamai-fmp4&json=1&~exp=1748962800&~id=player&~sig=gJnMYo0080l6mhxbL_ENUO4LWm0nTxUp1sNlcRpOA0g">480P</option>
+            <option value="https://st137.24cwc.com/hls/token/2aymysirczxvqpzvjnhfgd9k8/stream.m3u8">240P</option>
+            <option value="https://st137.24cwc.com/hls/token/2aymysirczxvqpzvjnhfgd9k8/stream.m3u8">360P</option>
+            <option value="https://st137.24cwc.com/hls/token/2aymysirczxvqpzvjnhfgd9k8/stream.m3u8">480P</option>
             <option value="https://live-api.vimeocdn.com/sessions/638ee0c6-4e28-4b7e-8d6b-7d5a2580ecbf/playlist/hls.m3u8?cdn=akamai-fmp4&json=1&~exp=1748962800&~id=player&~sig=gJnMYo0080l6mhxbL_ENUO4LWm0nTxUp1sNlcRpOA0g">540P</option>
-            <option value="https://live-api.vimeocdn.com/sessions/638ee0c6-4e28-4b7e-8d6b-7d5a2580ecbf/playlist/hls.m3u8?cdn=akamai-fmp4&json=1&~exp=1748962800&~id=player&~sig=gJnMYo0080l6mhxbL_ENUO4LWm0nTxUp1sNlcRpOA0g">Full HD</option>
+            <option value="https://st137.24cwc.com/hls/token/2aymysirczxvqpzvjnhfgd9k8/stream.m3u8">Full HD</option>
           </select>
         </div>
         <div class="telegram">
