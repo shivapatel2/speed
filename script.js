@@ -175,8 +175,8 @@ function openMoviePage(movieId, movieTitle, movieImage) {
           <br>
           <label for="quality">Select Quality:</label>
           <select id="quality">
-            <option value="https://st137.24cwc.com/hls/token/2aymysirczxvqpzvjnhfgd9k8/stream.m3u8">240P</option>
-            <option value="https://userx3565.hls-video.net/media2/token/a3f0c81db39d64f85b6f6a5cfaa1b2ce/stream.m3u8?token=2971ba9c6da893fbabe6917d2b4114f4">360P</option>
+            <option value="https://d1xfuppq3g677h.cloudfront.net/index_6.m3u8">240P</option>
+            <option value="https://d1xfuppq3g677h.cloudfront.net/index_6.m3u8&quality=720&start=1749637800&token=undefined&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMXhmdXBwcTNnNjc3aC5jbG91ZGZyb250Lm5ldC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ5NjUyNDgwfX19XX0_&Key-Pair-Id=APKAXVKMENFCRKTG5XE2&Signature=RtWxrLDTgnnppXMnV7N52bIfHsCcxvcUiLTBOqOAJEWBCuRVBuMw~T~QHYUxk0roK~QHinc3qcXvHgOaVOdsBdL4YWiWZ08F65b~kcJ6czDj7rtbPXAoMqdU6OQiZfx16Wxw~1lfPK2p7Uj6GUOA5xjnrPEb7xqZEX5jiyeS~EDJCMXPbQYxF4NNNdu302e1AV2X-XKLB3W-hXLRuZDUdlrFmXueTNN9DSujjKH0VOeHYoosJWnTYiSk41K095QwQSe7JFUPsXvPSEQYjwkXnQYXvAvqJbxVkIy8ZoWrxc7kNy9hJvXb0hmusKHqhFGxQIjHVPn8vh5YMp5SXjl-Qw__">360P</option>
             <option value="https://st137.24cwc.com/hls/token/2aymysirczxvqpzvjnhfgd9k8/stream.m3u8">480P</option>
             <option value="https://userx3565.hls-video.net/media2/token/a3f0c81db39d64f85b6f6a5cfaa1b2ce/stream.m3u8?token=2971ba9c6da893fbabe6917d2b4114f4">540P</option>
             <option value="https://st137.24cwc.com/hls/token/2aymysirczxvqpzvjnhfgd9k8/stream.m3u8">Full HD</option>
